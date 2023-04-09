@@ -1,0 +1,398 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+    list-style: none;
+    text-decoration: none;
+}
+.Web2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #2196f3;
+
+}
+
+.Study2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 2%;
+    text-align: left;
+    color: #212121;
+}
+.Study2:hover{
+    color: #2196f3;
+}
+
+.Porta2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 2%;
+    text-align: left;
+    color: #212121;
+}
+.Porta2:hover{
+    color: #2196f3;
+}
+
+.Conta2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 2%;
+    text-align: left;
+    color: #212121;
+}
+
+.Conta2:hover{
+    color: #2196f3;
+}
+
+.Mail-2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #757575;
+}
+
+.Mail-2:hover{
+    color: #2196f3;
+}
+
+.Tel-2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #757575;
+}
+
+.Tel-2:hover{
+    color: #2196f3;
+}
+
+.todo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
+    border: none;
+}
+
+.todo:focus{
+    background-color: #2196f3;
+    color: #FFFFFF;
+}
+
+.Sitios{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
+    border: none;
+}
+
+.Sitios:focus{
+    background-color: #2196f3;
+    color: #FFFFFF;
+}
+
+.Apps{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
+    border: none;
+}
+
+.Apps:focus{
+    background-color: #2196f3;
+    color: #FFFFFF;
+}
+
+.Diseño{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
+    border: none;
+}
+
+.Diseño:focus{
+    background-color: #2196f3;
+    color: #FFFFFF;
+}
+
+.Marketing{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 3%;
+    text-align: center;
+    color: #212121;
+    border: none;
+}
+
+.Marketing:focus{
+    background-color: #2196f3;
+    color: #FFFFFF;
+}
+
+.Tecno{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.SitioWeb{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+}
+
+.PNO{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.Restau{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+
+}
+
+.AppsText{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+
+}
+
+.ProyectPrime{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.Marketing-Text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+
+}
+
+.ProyectoCajas{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.Apps-text2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+
+}
+
+.inspi-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.Sitios-Text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+}
+
+.EdicionLi{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.Diseño-Text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+}
+
+.Proyecto-LAB{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.Market-Text2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+}
+
+.NegocioDC{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 6%;
+    text-align: left;
+    color: #212121;
+}
+
+.Apps-textFinish{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #757575;
+}
+
+#Ubi_contacts_2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Encuentranos-en{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Icono1{
+    position: absolute;
+    height: 44px;
+    width: 44px;
+    left: 516px;
+    top: 1739px;
+    border-radius: 0px;
+
+}
+
+.Icono2{
+    position: absolute;
+    height: 44px;
+    width: 44px;
+    left: 570px;
+    top: 1739px;
+    border-radius: 0px;
+
+}
+
+.Icono3{
+    position: absolute;
+    height: 44px;
+    width: 44px;
+    left: 624px;
+    top: 1739px;
+    border-radius: 0px;
+
+}
+
+.icono4{
+    position: absolute;
+    height: 44px;
+    width: 44px;
+    left: 678px;
+    top: 1739px;
+    border-radius: 0px;
+
+}

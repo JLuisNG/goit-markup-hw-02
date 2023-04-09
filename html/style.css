@@ -1,0 +1,347 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
+ *{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+:root{
+    --color-negro: #212121;
+    --color-blue: #2196F3;
+    --color-gris: #757575;
+}
+
+.Web-Studio{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.15px;
+    letter-spacing: 3%;
+    text-align: right;
+    text-decoration: none;
+    color: var(--color-blue);
+    
+
+}
+
+.EstudioTitulo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14px;
+    letter-spacing: 16%;
+    text-align: left;
+    color: var(--color-negro);
+}
+
+.EstudioTitulo:hover{
+    color: var(--color-blue);
+}
+
+.PortafolioTitulo{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14px;
+    letter-spacing: 16%;
+    text-align: left;
+    color: var(--color-negro);
+}
+.PortafolioTitulo:hover{
+    color: #2196F3;
+}
+
+.ContactosTitulo{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14px;
+    letter-spacing: 16%;
+    text-align: left;
+    color:#212121;
+}
+
+.ContactosTitulo:hover{
+    color: #2196F3;
+}
+
+.mail1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14px;
+    letter-spacing: 16%;
+    text-align: left;
+    color: #757575
+}
+
+.mail1:hover{
+    color: #2196F3;
+}
+
+.tel1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14px;
+    letter-spacing: 16%;
+    text-align: left;
+    color: #757575;
+
+}
+
+.tel1:hover{
+    color: #2196F3;
+}
+
+.TITULO-PRINCIPAL{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 136px;
+    letter-spacing: 6%;
+    text-align: center;
+    color: #ffffff;
+}
+
+.ButtonElement{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.87px;
+    letter-spacing: 6%;
+    text-align: center;
+    color: #ffffff;
+}
+
+.backspace2{
+    background-color: #2F303A;
+}
+
+.espacioDelBoton button{
+    background-color: #2196F3;
+    color: #ffffff;
+    border: none;
+    height: 50px;
+    width: 261px;
+    left: 666px;
+    top: 430px;
+    border-radius: 4px;
+    padding: 10px 32px 10px 32px;
+
+}
+
+.Atencion{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 3%;
+    color: #212121;
+}
+
+.TEXT-AT{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+
+}
+
+.Puntualidad{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 3%;
+    
+}
+
+.TEXT-P{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+}
+
+.PLANIFICACION{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 3%;
+    
+}
+
+.TEXT-P2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+}
+
+.TEGNOLOGIA{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 3%;
+
+}
+
+.TEXT-T{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 3%;
+}
+
+.TITULE-2H{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 3%;
+
+}
+
+.TITULE-3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 3%;
+
+}
+
+.Andresh3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+
+}
+
+.diseñadorAN{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+
+}
+.carlah3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+
+}
+
+.desaCar{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+}
+
+.MarioH3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+}
+
+.marketMa{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+}
+
+.PabloMI{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+}
+
+.DiseñaPablo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 3%;
+    text-align: center;
+}
+
+.background-1{
+    background-color: #2F303A;
+}
+
+.link{
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 3%;
+    text-align: left;
+    color: #2196F3;
+}
+#Ubi_contacts{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #ffffff
+}
+
+#Ubi_contacts:hover{
+    color: #2196F3;
+}
+
+.mail2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14px;
+    letter-spacing: 16%;
+    text-align: left;
+    color: #757575
+}
+.mail2:hover{
+    color: #2196F3;
+}
+
+.tel2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14px;
+    letter-spacing: 16%;
+    text-align: left;
+    color: #757575;
+}
+
+.tel2:hover{
+    color: #2196F3;
+}
