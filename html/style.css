@@ -4,13 +4,6 @@
     list-style: none;
 }
 
-
-:root{
-    --color-negro: #212121;
-    --color-blue: #2196F3;
-    --color-gris: #757575;
-}
-
 .Web-Studio{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
